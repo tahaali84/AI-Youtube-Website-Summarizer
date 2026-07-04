@@ -11,3 +11,8 @@ An AI-powered text summarization application built using LangChain and Groq LLMs
 -  Generates concise 300-word summaries
 -  Fast inference using Llama models
 -  Interactive Streamlit UI
+
+## 🛠️ Tech Stack
+
+- Python
+- LangChain
