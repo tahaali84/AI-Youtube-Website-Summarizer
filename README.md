@@ -8,3 +8,6 @@ An AI-powered text summarization application built using LangChain and Groq LLMs
 -  Summarize website articles and webpages
 -  Powered by Groq LLM API
 -  LangChain-based LLM pipeline
+- 📝 Generates concise 300-word summaries
+- ⚡ Fast inference using Llama models
+- 🎨 Interactive Streamlit UI
