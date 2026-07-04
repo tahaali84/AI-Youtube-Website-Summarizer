@@ -4,5 +4,7 @@ An AI-powered text summarization application built using LangChain and Groq LLMs
 
 ##  Features
 
-- 📺 Summarize YouTube videos using transcripts
-- 🌐 Summarize website articles and webpages
+-  Summarize YouTube videos using transcripts
+-  Summarize website articles and webpages
+-  Powered by Groq LLM API
+-  LangChain-based LLM pipeline
