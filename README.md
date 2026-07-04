@@ -16,5 +16,5 @@ An AI-powered text summarization application built using LangChain and Groq LLMs
 
 - Python
 - LangChain
-- - Groq API
+- Groq API
 - Llama 3 Models
