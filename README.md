@@ -18,7 +18,7 @@ An AI-powered text summarization application built using LangChain and Groq LLMs
 - LangChain
 - Groq API
 - Llama 3 Models
-- - Streamlit
+- Streamlit
 - YouTube Transcript API
 - Unstructured URL Loader
 
